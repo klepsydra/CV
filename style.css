@@ -1,0 +1,29 @@
+body{
+	font-family: 'Prompt', sans-serif;
+	color: white;
+	background-color: black;
+	position: relative;
+}
+img{
+	border: solid 4px #B4B4B4;
+	position: absolute;
+	left: 772px;
+    bottom: 1045px;
+    border-radius: 50%;
+    width: 15%;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #FF00D4;
+}
+.data{
+	list-style: none;
+}
+h2{
+	background-color: #29A8A8;
+}
+footer{
+	font-size: 70%;
+}
